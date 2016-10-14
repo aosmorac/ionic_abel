@@ -9,6 +9,7 @@ Instalación de de modulos con Node
 
 3. Instalar dependencias.
 
-      $npm install
+
+          $npm install
       
-      $npm install --save-dev
+          $npm install --save-dev
