@@ -51,6 +51,26 @@ Instalación de Ionic y Cordova.
 
 
 
+
+Tareas Gulp
+------------
+
+Instalar gulp globalmente
+
+        $npm install -g gulp
+
+Tareas configuradas con gulp
+
+1. Ejecutar servidor web de desarrollo [Tarea por defecto]
+
+        $gulp
+
+2. Alistar los archivos rapidamente y sin comprimir para probarlos como aplicaciones mobiles
+
+        $gulp cordovaDev
+
+
+
 Empaquetar aplicación móvil
 ------------------------
 
@@ -58,12 +78,12 @@ Para dispositivos android ejecutar
 
 1. Preparar android
 
-    $ionic prepare android
+        $ionic prepare android
 
 2. Compilar cordodva
 
-    $ionic compile android
+        $ionic compile android
 
 3. Correr la aplicación
 
-    $ionic run android
+        $ionic run android
