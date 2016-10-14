@@ -46,9 +46,6 @@ Instalación de Ionic y Cordova.
 
 3. Agregar plataforma android al proyecto
 
-         $cordova plarform add android
+         $ionic plarform add android
 
-4. IMPORTANTE: Crear una aplicación de ionic en una ubicación diferente a la de nuestro proyecto:
-
-         $ionic start IonicApp blank
 
