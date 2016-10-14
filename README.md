@@ -40,7 +40,9 @@ Instalación de Ionic y Cordova.
 
          $npm install -g cordova ionic
 
-2. Crear una carpeta llamada 'www' en el root del proyecto
+2. Iniciar proyecto de Ionic
+
+         $ionic start "myApp" tabs
 
 3. Agregar plataforma android al proyecto
 
