@@ -10,9 +10,9 @@ Instalación de de modulos con Node
 3. Instalar dependencias.
 
 
-       $npm install
+         $npm install
       
-       $npm install --save-dev
+         $npm install --save-dev
 
 
 
@@ -23,8 +23,8 @@ Una vez instalados los modulos con node, se debe:
 
 1. Instalar Bower goblamente
 
-       $npm install -g bower"
+         $npm install -g bower"
 
 2. Instalar librerias usadas en el proyecto.
 
-       $bower install
+         $bower install
