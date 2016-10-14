@@ -49,3 +49,21 @@ Instalación de Ionic y Cordova.
          $ionic platform add android
 
 
+
+
+Empaquetar aplicación móvil
+------------------------
+
+Para dispositivos android ejecutar
+
+1. Preparar android
+
+    $ionic prepare android
+
+2. Compilar cordodva
+
+    $ionic compile android
+
+3. Correr la aplicación
+
+    $ionic run android
