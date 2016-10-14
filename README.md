@@ -44,11 +44,9 @@ Instalación de Ionic y Cordova.
 
 3. Agregar plataforma android al proyecto
 
-         $cardova plarform add android
+         $cordova plarform add android
 
 4. IMPORTANTE: Crear una aplicación de ionic en una ubicación diferente a la de nuestro proyecto:
 
          $ionic start IonicApp blank
-
-5. Del proyecto creado copiar la carpeta IonicApp/www/lib/ionic en /nutrifami-mobile/app/lib/ionic
 
