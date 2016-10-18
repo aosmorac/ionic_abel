@@ -87,3 +87,15 @@ Para dispositivos android ejecutar
 3. Correr la aplicación
 
         $ionic run android
+
+
+
+Manejo y descarga de archivos en dispositivo
+--------------------------------------------
+
+1. Instalar Plugins 
+
+       $cordova plugin add org.apache.cordova.file-transfer
+       $cordova plugin add cordova-plugin-file
+       $cordova plugin add cordova-plugin-whitelist
+
